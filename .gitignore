@@ -1,0 +1,25 @@
+# 模型权重
+*.pt
+*.pth
+*.onnx
+
+# 数据集
+data/
+images/
+labels/
+*.zip
+*.tar
+
+# 训练结果
+experiments/
+runs/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
