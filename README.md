@@ -5,6 +5,10 @@
 
 ## 项目结构
 
+## 数据集链接
+我们使用TACO数据集进行训练和测试：
+
+**GitHub仓库**：https://github.com/pedropro/TACO
 
 ## 使用方法
 1. 克隆项目：`git clone <仓库地址>`
@@ -15,3 +19,8 @@
 
 ## 作者
 xingyiliang86-rgb
+
+### 软件依赖
+```bash
+pip install -r requirements.txt
+
